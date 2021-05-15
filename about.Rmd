@@ -12,12 +12,15 @@ background-color: #B9F2FE
 </style>
 <br>
 <center>
-![](div.JPG){width=50%}
+![](div.JPG){width=75%}
 </center>
 <br>
 
 Freshwater sponges are filter feeders that aid in cleaning up water systems. Depending
-on the [species](sponge_id.html) they can be found in found in [lentic and lotic ecosystems](https://sciencing.com/lentic-lotic-ecosystems-7355077.html).
+on the [species](sponge_id.html) they can be found in [lentic and lotic ecosystems](https://sciencing.com/lentic-lotic-ecosystems-7355077.html). While these creatures are extremely understudied, we do know they can relay the health of the environment. However, many questions are still needed to be answered to address their actual dependency on water parameters. 
+<br>
+<br>
+In this study, we have found that [_Eunapius fragilis_](Euf.html) and [_Trochospongilla horrida_](th.html) are the most abundant in Louisiana and are able to thrive in a range of water characteristics, indicating they are the ones most responsible for cleaning up the water systems, here. 
 
 
 
