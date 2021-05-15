@@ -1,0 +1,26 @@
+---
+title: "Student involvement"
+output: html_document
+---
+
+<style type="text/css">
+h1.title {
+  font-size: 52px;
+  text-align: center;
+}
+body {
+background-color: #B9F2FE
+}
+</style>
+<br>
+
+Baton Rouge Community College engages students in freshwater sponge research through
+a [Course-based undergraduate Research Experience](https://science.sciencemag.org/content/360/6396/1417.6) during their 
+second year biology lab. This course is designed for the students to develop critical thinking skills, molecular skills, increase scientific literacy, and allow them
+to contribute to a larger pool of scientific knowledge. The course data has also 
+shown to increase student self-efficacy.
+
+
+
+
+BRCC students can also participate summer internships. 
