@@ -1,0 +1,22 @@
+---
+title: "What are freshwater sponges?"
+---
+<style type="text/css">
+h1.title {
+  font-size: 52px;
+  text-align: center;
+}
+body {
+background-color: #B9F2FE
+}
+</style>
+<br>
+<center>
+![](div.JPG){width=50%}
+</center>
+<br>
+
+Freshwater sponges are filter feeders that aid in cleaning up water systems. Depending
+on the [species](sponge_id.html) they can be found in found in [lentic and lotic ecosystems](https://sciencing.com/lentic-lotic-ecosystems-7355077.html).
+
+
