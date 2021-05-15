@@ -1,0 +1,20 @@
+---
+title: "Outreach"
+output: html_document
+---
+<style type="text/css">
+h1.title {
+  font-size: 45px;
+  text-align: center;
+}
+body {
+background-color: #B9F2FE
+}
+</style>
+<br>
+
+We are currently planning outreach activities that will occur on the Baton Rouge 
+Community College campus in fall 2021.
+
+If you have events that you would like us to attend to educate visitors about freshwater
+sponges, please contact Dr. Miller at millerm2@mybrcc.edu.

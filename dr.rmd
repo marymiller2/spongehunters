@@ -1,0 +1,17 @@
+---
+title: _Doscilia radiospiculata_
+output: html_document
+---
+
+<style type="text/css">
+h1.title {
+  font-size: 40px;
+  text-align: center;
+}
+body {
+background-color: #B9F2FE
+}
+</style>
+<br>
+<br>
+_D. radiospiculata_ has been found in this study. Please stay tuned for upcoming images!
