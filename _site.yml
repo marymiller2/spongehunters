@@ -4,14 +4,15 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About Freshwater Sponges"
-      href: about.html
     - text: "The Hunt"
       href: thehunt.html
+    - text: "Support the Hunt"
+      href: donate.html
+    - text: "About Freshwater Sponges"
+      href: about.html
     - text: "Species"
       href: sponge_id.html
-    - text: "Donate"
-      href: donate.html
+
 
 
 output:
