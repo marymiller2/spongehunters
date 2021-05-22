@@ -12,8 +12,6 @@ background-color: #B9F2FE
 }
 </style>
 <br>
-<br>
-
 We are currently seeking funds to support BRCC students and local high school student
 with internships along their journey of exploring the world of freshwater sponges. Funds will be used to support students through research stipends, student travel to sites for collections and presentations at conferences, and consumables needed for the project. Every penny donated will go to support students working on this project!
 <br>
