@@ -17,6 +17,6 @@ navbar:
 
 output:
   html_document:
-    theme: yeti
+theme: yeti
     
 output_dir: "." 
