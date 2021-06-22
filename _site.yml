@@ -13,10 +13,8 @@ navbar:
     - text: "Species"
       href: sponge_id.html
 
-
-
 output:
   html_document:
-theme: yeti
-    
-output_dir: "." 
+    theme: yeti
+
+output_dir: "."
