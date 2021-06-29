@@ -17,3 +17,40 @@ background-color: #B9F2FE
 _C. becki_ was first discovered and described as a novel species in Louisiana in 
 1978. It has currently not been located in this study. To learn more about this 
 organism, visit the original [publication](https://www.jstor.org/stable/3225599?origin=crossref&seq=1). 
+
+<br>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(sf)
+library(rgdal)
+library(sp)
+library(readxl)
+library(ggspatial)
+library(ggmap)
+library(RColorBrewer)
+```
+
+```{r echo=FALSE, results='hide', message=FALSE, warning=FALSE}
+states<-st_read("/Users/abhimehrotra/Documents/states")
+la.b<-st_crop(states,xmin=-94.15,xmax=-89,ymin=29,ymax=33.15)
+la.c<-states[states$STATE_NAME=="Louisiana",]
+sites<-read_xlsx("/Users/abhimehrotra/Desktop/Miller_sponge gps coordinates_summer 2021.xlsx", sheet="Cb")
+```
+
+```{r map, echo=FALSE, fig.align='center'}
+(map1<-ggplot()+
+    geom_sf(data=la.c)+
+    geom_point(aes(x=Long,y=Lat, color=Cb),data=sites,size=2)+
+    scale_color_brewer(palette = "Dark2",name="Corvospongilla becki")+
+    ylab("Latitude")+
+    xlab("Longitude")+
+    theme(panel.grid = element_blank())+
+    theme(legend.position="none")+
+    theme(axis.text = element_text(size=10,family="sans"),
+          axis.title= element_text(size=12,family="sans")))
+```

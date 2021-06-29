@@ -17,7 +17,7 @@ if(!require(ggmap)) install.packages('ggmap');library(ggmap)
 # if you want to use google maps you have to go here and register: https://cloud.google.com/maps-platform/
 # for trial purposes you can use my key, but if you decide to keep using google maps for things, please change the key to your own.
 register_google(key="AIzaSyC62_TAASDWCV_I6e6k5uzNf5i-hCWeNb4")
-# set the boundary box for the backgroun map
+# set the boundary box for the background map
 la<-c(-94.15,29,-89.5,33.15)
 # get a google map background
 la.map.h<-get_map(location=la,source="google",maptype="hybrid",crop=FALSE)
@@ -36,11 +36,6 @@ sites<-read_xlsx("/Users/abhimehrotra/Desktop/Miller_sponge gps coordinates_summ
 
 # from here on out everything is going to be the same between google map background and the shapefiles. So I will only demonstrate 
 # with the shapefile example, because its a bit cleaner and easier to see what changes
-
-# now to add sites to each map
-
-#map2+
-#geom_point(aes(x=Long,y=Lat),data=sites,size=2)
 
 # now lets look at changing the axis labels. There are a couple ways that you can do this (a good resource: http://www.cookbook-r.com/Graphs/)
 # I am going to show you the easiest way if you aren't changing other things about the axes (which you don't typically have to do with a map)
