@@ -58,7 +58,7 @@ sites<-read_xlsx("/Users/abhimehrotra/Desktop/Miller_sponge gps coordinates_summ
 <br>
 <br>
 <center>
-![](Tl_all.JPG){width=50%}
+![](Tl_all.JPG){width=75%}
 </center>
 <br>
 <br>
