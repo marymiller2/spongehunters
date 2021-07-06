@@ -24,7 +24,6 @@ la.b<-st_crop(states,xmin=-94.15,xmax=-89,ymin=29,ymax=33.15)
 la.c<-states[states$STATE_NAME=="Louisiana",]
 
 # now I'm going to bring in some example sites- you'll replace this with the correct function and file path to bring in your sites
-
 sites<-read_xlsx("/Users/abhimehrotra/Desktop/Miller_sponge gps coordinates_summer 2021.xlsx", sheet="All Sites")
 
 # now to make a pretty map
@@ -44,7 +43,6 @@ theme_set(theme_bw())
 # now to add sites to each map
 # Now that we're done exploring how to change the shape and color of points I will add these to my base map so we can explore other
 # changes we can make
-
 (map1<-map1+
     geom_sf(data=la.c)+
     geom_point(aes(x=Long,y=Lat, color=ID),data=sites,size=2))
