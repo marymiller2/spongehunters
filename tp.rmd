@@ -41,10 +41,10 @@ la.c<-states[states$STATE_NAME=="Louisiana",]
 sites<-read_xlsx("/Users/abhimehrotra/Desktop/Miller_sponge gps coordinates_summer 2021.xlsx", sheet="Tp")
 ```
 
-```{r map, echo=FALSE, fig.align='center'}
+```{r map, echo=FALSE, fig.align='center', fig.asp=.95}
 (map1<-ggplot()+
     geom_sf(data=la.c)+
-    geom_point(aes(x=Long,y=Lat, color=Tp),data=sites,size=2)+
+    geom_point(aes(x=Long,y=Lat, color=Tp),data=sites,size=3)+
     scale_color_brewer(palette = "Dark2",name="Trochospongilla pennsylvanica")+
     ylab("Latitude")+
     xlab("Longitude")+

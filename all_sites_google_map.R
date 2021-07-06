@@ -27,6 +27,9 @@ ggmap(la.map.h)
 # now I'm going to bring in some example sites- you'll replace this with the correct function and file path to bring in your sites
 sites<-read_xlsx("/Users/abhimehrotra/Desktop/Miller_sponge gps coordinates_summer 2021.xlsx", sheet="All Sites")
 
+# now to make a pretty map
+theme_set(theme_bw())
+
 # this assigns the answer to x but doesn't show you what it is in your console. This next line does both:
 (x<-793*8)
 
@@ -66,10 +69,10 @@ display.brewer.all(colorblindFriendly = TRUE) # you can turn off the color blind
 # center the title of the legend
 (map2<-map2+
     theme(legend.title.align = 0.5))
-
+    
 # you can also make something bold or italic
 (map2<-map2+
     theme(legend.text = element_text(size=12,family="sans",face = "italic"),
           legend.title = element_text(size=20,family="sans",face = "bold"),
           axis.text = element_text(size=12,family="sans"),
-          axis.title= element_text(size=15,family="sans")))
+          axis.title = element_text(size=15,family="sans")))
