@@ -43,6 +43,45 @@ Summer 2021 is off to a great start! In late May 2021, Dr. Miller and a group of
 <br>
 <br>
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(sf)
+library(rgdal)
+library(sp)
+library(readxl)
+library(ggspatial)
+library(ggmap)
+library(RColorBrewer)
+```
+
+```{r echo=FALSE, results='hide', message=FALSE, warning=FALSE, fig.keep='none'}
+register_google(key="AIzaSyC62_TAASDWCV_I6e6k5uzNf5i-hCWeNb4")
+la<-c(-94.15,29,-89.5,33.15)
+la.map.h<-get_map(location=la,source="google",maptype="hybrid",crop=FALSE)
+sites<-read_xlsx("/Users/abhimehrotra/Desktop/Miller_sponge gps coordinates_summer 2021.xlsx", sheet="All Sites")
+(map2<-ggmap(la.map.h))
+```
+
+```{r map, echo=FALSE, fig.align='center'}
+(map2<-map2+
+    geom_point(aes(x=Long,y=Lat, color=ID),data=sites,size=2)+
+    scale_color_brewer(palette = "Dark2",name="Sites")+
+    ylab("Latitude")+
+    xlab("Longitude")+
+    theme(panel.grid = element_blank())+
+    theme(legend.position = "top")+
+    theme(legend.title.align = 0.5)+
+    theme(legend.text = element_text(size=12,family="sans",face = "italic"),
+          legend.title = element_text(size=20,family="sans",face = "bold"),
+          axis.text = element_text(size=12,family="sans"),
+          axis.title= element_text(size=15,family="sans")))
+```
+
+
 
 
 
