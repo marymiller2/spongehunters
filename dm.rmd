@@ -13,6 +13,7 @@ background-color: #B9F2FE
 }
 </style>
 <br>
+<br>
 
 _D. mackayi_ has been found in this study. Please stay tuned for upcoming images!
   
@@ -34,10 +35,10 @@ library(RColorBrewer)
 ```
 
 ```{r echo=FALSE, results='hide', message=FALSE, warning=FALSE}
-states<-st_read("/Users/abhimehrotra/Documents/states")
+states<-st_read("/Users/abhimehrotra/Desktop/Sponge Hunters Webpage/states")
 la.b<-st_crop(states,xmin=-94.15,xmax=-89,ymin=29,ymax=33.15)
 la.c<-states[states$STATE_NAME=="Louisiana",]
-sites<-read_xlsx("/Users/abhimehrotra/Desktop/Miller_sponge gps coordinates_summer 2021.xlsx", sheet="Dm")
+sites<-read_xlsx("/Users/abhimehrotra/Desktop/Sponge Hunters Webpage/Miller_sponge gps coordinates_summer 2021.xlsx", sheet="Dm")
 ```
 
 ```{r map, echo=FALSE, fig.align='center', fig.asp=.95}
