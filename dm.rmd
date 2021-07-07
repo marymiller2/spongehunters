@@ -35,10 +35,10 @@ library(RColorBrewer)
 ```
 
 ```{r echo=FALSE, results='hide', message=FALSE, warning=FALSE}
-states<-st_read("~/Desktop/spongehunters/states")
+states<-st_read("map_data_files/states")
 la.b<-st_crop(states,xmin=-94.15,xmax=-89,ymin=29,ymax=33.15)
 la.c<-states[states$STATE_NAME=="Louisiana",]
-sites<-read_xlsx("~/Desktop/spongehunters/Miller_sponge gps coordinates_summer 2021.xlsx", sheet="Dm")
+sites<-read_xlsx("map_data_files/Miller_sponge gps coordinates_summer 2021.xlsx", sheet="Dm")
 ```
 
 ```{r map, echo=FALSE, fig.align='center', fig.asp=.95}

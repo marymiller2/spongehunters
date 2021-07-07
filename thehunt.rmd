@@ -59,7 +59,7 @@ library(RColorBrewer)
 register_google(key="AIzaSyC62_TAASDWCV_I6e6k5uzNf5i-hCWeNb4")
 la<-c(-94.15,29,-89.5,33.15)
 la.map.h<-get_map(location=la,source="google",maptype="hybrid",crop=FALSE)
-sites<-read_xlsx("~/Desktop/spongehunters/Miller_sponge gps coordinates_summer 2021.xlsx", sheet="All Sites")
+sites<-read_xlsx("map_data_files/Miller_sponge gps coordinates_summer 2021.xlsx", sheet="All Sites")
 theme_set(theme_bw())
 (map2<-ggmap(la.map.h))
 ```
