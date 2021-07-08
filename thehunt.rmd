@@ -55,7 +55,7 @@ library(ggmap)
 library(RColorBrewer)
 ```
 
-```{r echo=FALSE, results='hide', message=FALSE, warning=FALSE, fig.keep='none'}
+```{r, echo=FALSE, results='hide', message=FALSE, warning=FALSE, fig.keep='none'}
 register_google(key="AIzaSyC62_TAASDWCV_I6e6k5uzNf5i-hCWeNb4")
 la<-c(-94.15,29,-89.5,33.15)
 la.map.h<-get_map(location=la,source="google",maptype="hybrid",crop=FALSE)

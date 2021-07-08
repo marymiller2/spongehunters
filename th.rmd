@@ -34,7 +34,7 @@ library(ggmap)
 library(RColorBrewer)
 ```
 
-```{r echo=FALSE, results='hide', message=FALSE, warning=FALSE}
+```{r, echo=FALSE, results='hide', message=FALSE, warning=FALSE}
 states<-st_read("map_data_files/states")
 la.b<-st_crop(states,xmin=-94.15,xmax=-89,ymin=29,ymax=33.15)
 la.c<-states[states$STATE_NAME=="Louisiana",]

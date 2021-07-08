@@ -20,10 +20,10 @@ Currently, _A. argyrosperma_ has only been located at one site during this study
 <br>
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo=TRUE)
 ```
 
-```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.keep='none'}
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 library(sf)
 library(rgdal)
@@ -34,23 +34,23 @@ library(ggmap)
 library(RColorBrewer)
 ```
 
-```{r echo=FALSE, results='hide', message=FALSE, warning=FALSE}
+```{r, echo=FALSE, results='hide', fig.show='hide', message=FALSE, warning=FALSE}
 states<-st_read("map_data_files/states")
-la.b<-st_crop(states,xmin=-94.15,xmax=-89,ymin=29,ymax=33.15)
+la.b<-st_crop(states,xmin=94.15,xmax=-89,ymin=29,ymax=33.15)
 la.c<-states[states$STATE_NAME=="Louisiana",]
-sites<-read_xlsx("map_data_files/Miller_sponge gps coordinates_summer 2021.xlsx", sheet="Aa")
+sites<-read_xlsx("map_data_files/Miller_sponge gps coordinates_summer 2021.xlsx", sheet ="Aa")
+(map1<-theme_set(theme_bw()))
 ```
 
 ```{r map, echo=FALSE, fig.align='center', fig.asp=.95}
 (map1<-ggplot()+
-    geom_sf(data=la.c)+
-    geom_point(aes(x=Long,y=Lat, color=Aa),data=sites,size=3)+
-    scale_color_brewer(palette = "Dark2",name="Anheteromeyenia argyrosperma")+
-    ylab("Latitude")+
-    xlab("Longitude")+
-    theme_set(theme_bw())+
-    theme(panel.grid = element_blank())+
-    theme(legend.position="none")+
-    theme(axis.text = element_text(size=10,family="sans"),
-          axis.title= element_text(size=12,family="sans")))
+   geom_sf(data=la.c)+
+   geom_point(aes(x=Long,y=Lat, color=Aa),data=sites,size=3)+
+   scale_color_brewer(palette = "Dark2",name="Anheteromeyenia argyrosperma")+
+   ylab("Latitude")+
+   xlab("Longitude")+
+   theme(panel.grid = element_blank())+
+   theme(legend.position = "none")+
+   theme(axis.text = element_text(size=10,family="sans"),
+         axis.title = element_text(size=12,family="sans")))
 ```
