@@ -42,6 +42,8 @@ Summer 2021 is off to a great start! In late May 2021, Dr. Miller and a group of
 
 The site map below is continuously updated with the sites surveyed in this study. Sites are further labeled with the observation of sponge presence or absence. The sites labeled as NA are those that were visited but surveying was not possible because of high water at the time. These sites will be revisited.
 
+<br>
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```

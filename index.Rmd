@@ -53,7 +53,7 @@ The project is now shared between two institutions:
 <br>
 <br>
 <center>
-![](MS.JPG){width=50%}
+![](MS.JPG){width=75%}
 </center>
 <br>
 

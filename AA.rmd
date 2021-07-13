@@ -34,11 +34,13 @@ library(ggmap)
 library(RColorBrewer)
 ```
 
-```{r echo=FALSE, results='hide', message=FALSE, warning=FALSE}
+```{r echo=FALSE, results='hide', fig.keep='none', message=FALSE, warning=FALSE}
 states<-st_read("map_data_files/states")
 la.b<-st_crop(states,xmin=-94.15,xmax=-89,ymin=29,ymax=33.15)
 la.c<-states[states$STATE_NAME=="Louisiana",]
 sites<-read_xlsx("map_data_files/Miller_sponge gps coordinates_summer 2021.xlsx", sheet="Aa")
+(map1<-ggplot()+
+    theme_set(theme_bw()))
 ```
 
 ```{r map, echo=FALSE, fig.align='center', fig.asp=.95}
@@ -48,7 +50,6 @@ sites<-read_xlsx("map_data_files/Miller_sponge gps coordinates_summer 2021.xlsx"
     scale_color_brewer(palette = "Dark2",name="Anheteromeyenia argyrosperma")+
     ylab("Latitude")+
     xlab("Longitude")+
-    theme_set(theme_bw())+
     theme(panel.grid = element_blank())+
     theme(legend.position="none")+
     theme(axis.text = element_text(size=10,family="sans"),
