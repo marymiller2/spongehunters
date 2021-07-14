@@ -59,7 +59,13 @@ sites<-read_xlsx("map_data_files/Miller_sponge gps coordinates_summer 2021.xlsx"
 <br>
 <br>
 <center>
-![](Tl_all.JPG){width=75%}
+![](Tl_on_substrate.JPG){width=75%}
+</center>
+<center>
+![](Tl_spicules.JPG){width=75%}
+</center>
+<center>
+![](Tl_SEM_1.JPG){width=75%}
 </center>
 <br>
 <br>

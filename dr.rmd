@@ -54,3 +54,20 @@ sites<-read_xlsx("map_data_files/Miller_sponge gps coordinates_summer 2021.xlsx"
     theme(axis.text = element_text(size=10,family="sans"),
           axis.title= element_text(size=12,family="sans")))
 ```
+
+<br>
+<br>
+<center>
+![](Dr_on_substrate.JPG){width=75%}
+</center>
+<center>
+![](Dr_spicules.JPG){width=75%}
+</center>
+<center>
+![](Dr_SEM_1.JPG){width=75%}
+</center>
+<br>
+<br>
+
+All preps and pictures were performed by BRCC students
+and Dr. Miller and are copyright protected.
