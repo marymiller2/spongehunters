@@ -18,6 +18,20 @@ background-color: #B9F2FE
 _E. fluviatilis_ has been found in this study. Please stay tuned for upcoming images!
 
 <br>
+<center>
+![](Epf_on_substrate.JPG){width=75%}
+</center>
+<center>
+![](Epf_spicules.JPG){width=75%}
+</center>
+<center>
+![](Epf_SEM_1.JPG){width=75%}
+</center>
+<center>
+![](Epf_SEM_2.JPG){width=75%}
+</center>
+<br>
+<br>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -55,20 +69,6 @@ sites<-read_xlsx("map_data_files/Miller_sponge gps coordinates_summer 2021.xlsx"
           axis.title= element_text(size=12,family="sans")))
 ```
 
-<br>
-<br>
-<center>
-![](Epf_on_substrate.JPG){width=75%}
-</center>
-<center>
-![](Epf_spicules.JPG){width=75%}
-</center>
-<center>
-![](Epf_SEM_1.JPG){width=75%}
-</center>
-<center>
-![](Epf_SEM_2.JPG){width=75%}
-</center>
 <br>
 <br>
 
