@@ -18,6 +18,16 @@ background-color: #B9F2FE
 _D. mackayi_ has been found at one location in Louisiana during this study. Very little information is known about this particular sponge. The scientific literature is very limited. We were able to locate this organism in a stagnant water system off the Pearl River. Stay tuned for images of this organism!
   
 <br>
+<center>
+![](Dm_on_substrate.JPG){width=75%}
+</center>
+
+<center>
+<font size="1"> All preps and pictures were performed by BRCC students
+and Dr. Miller and are copyright protected. </font>
+</center>
+
+<br>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
