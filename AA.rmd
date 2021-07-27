@@ -18,9 +18,13 @@ background-color: #B9F2FE
 Currently, _A. argyrosperma_ has only been located at one site during this study. Stay tuned for images of this organism!
 
 <br>
+
 <center>
 ![](Aa_on_substrate.JPG){width=75%}
 </center>
+
+<br>
+
 <center>
 ![](Aa_spicules.JPG){width=75%}
 </center>

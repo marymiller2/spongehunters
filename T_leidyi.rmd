@@ -19,12 +19,19 @@ _T. leidyi_ has been found in brackish and freshwater in Louisiana. While the ca
 grow in [lentic and lotic systems](https://en.wikipedia.org/wiki/River_ecosystem), most in the Louisiana study have been found in lotic water systems. It is easily identified when both sponge body and gemmules are present. They have banana shaped megascelers and birotulas that are embedded in the gemmules. Common substrates include rocks, wooden posts,metal objects, and bricks.
 
 <br>
+
 <center>
 ![](Tl_on_substrate.JPG){width=75%}
 </center>
+
+<br>
+
 <center>
 ![](Tl_spicules.JPG){width=75%}
 </center>
+
+<br>
+
 <center>
 ![](Tl_SEM_1.JPG){width=75%}
 </center>

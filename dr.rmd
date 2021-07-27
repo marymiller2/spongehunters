@@ -18,12 +18,19 @@ background-color: #B9F2FE
 _D. radiospiculata_ has been found in this study. Please stay tuned for upcoming images!
 
 <br>
+
 <center>
 ![](Dr_on_substrate.JPG){width=75%}
 </center>
+
+<br>
+
 <center>
 ![](Dr_spicules.JPG){width=75%}
 </center>
+
+<br>
+
 <center>
 ![](Dr_SEM_1.JPG){width=75%}
 </center>

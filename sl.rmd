@@ -18,9 +18,13 @@ background-color: #B9F2FE
 _S. lacustris_ has been found in this study. Please stay tuned for upcoming images!
 
 <br>
+
 <center>
 ![](Sl_on_substrate.JPG){width=75%}
 </center>
+
+<br>
+
 <center>
 ![](Sl_SEM_1.JPG){width=75%}
 </center>

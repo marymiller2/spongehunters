@@ -18,12 +18,19 @@ background-color: #B9F2FE
 _E. fragilis_ has been found in this study. Please stay tuned for upcoming images!
 
 <br>
+
 <center>
 ![](Euf_on_substrate.JPG){width=75%}
 </center>
+
+<br>
+
 <center>
 ![](Euf_spicules.JPG){width=75%}
 </center>
+
+<br>
+
 <center>
 ![](Euf_SEM_1.JPG){width=75%}
 </center>

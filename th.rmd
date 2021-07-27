@@ -18,12 +18,19 @@ background-color: #B9F2FE
 _T. horrida_ has been found in this study. Please stay tuned for upcoming images!
 
 <br>
+
 <center>
 ![](Th_on_substrate.JPG){width=75%}
 </center>
+
+<br>
+
 <center>
 ![](Th_spicules.JPG){width=75%}
 </center>
+
+<br>
+
 <center>
 ![](Th_SEM_1.JPG){width=75%}
 </center>

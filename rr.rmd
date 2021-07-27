@@ -18,12 +18,19 @@ background-color: #B9F2FE
 _R. ryderi_ has been found in this study. Please stay tuned for upcoming images!
 
 <br>
+
 <center>
 ![](Rr_on_substrate.JPG){width=75%}
 </center>
+
+<br>
+
 <center>
 ![](Rr_spicules.JPG){width=75%}
 </center>
+
+<br>
+
 <center>
 ![](Rr_SEM_1.JPG){width=75%}
 </center>
