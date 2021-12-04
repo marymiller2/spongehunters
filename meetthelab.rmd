@@ -1,0 +1,174 @@
+---
+title: "Meet the Lab"
+output: html_document
+---
+<style type="text/css">
+h1.title {
+  font-size: 45px;
+  text-align: center;
+}
+body {
+background-color: #B9F2FE
+}
+</style>
+<br>
+The Louisiana Freshwater Sponge Research Team consists of Biology, Computer Science, and Pre-Engineering BRCC students. All have individual roles in the projects that come together to create an ongoing database that allows us to understand the health of freshwater sponges in Louisiana!
+<br>
+<br>
+<center>
+![](fieldwork_group.jpg){width=75%}
+</center>
+<center>
+<font size="1"> Pictured above (from left to right): Raven Skelton, Tarry Glover, Samuel Joseph Johnson, Abhi Mehrotra, and Axel  Henriquez. </font>
+</center>
+<br>
+<br>
+
+**Undergraduate Research Mentors:**
+<br>
+<br>
+![](kenzie_m_cooke.jpg){width=25%}
+<br>
+Kenzie M. Cooke
+<br>
+Summer 2021 - 
+<br>
+"In the lab, my duties focus on scanning electron microscopy, and species identification by spicule morphology. I also love being in the field and I am scuba certified! I am pursuing a Bachelor's Degree in Marine Biology."
+
+<br>
+<br>
+![](abhi_mehrotra.jpg){width=25%}
+<br>
+Abhi Mehrotra
+<br>
+Summer 2021 -
+<br>
+"I am the first computer science major to have received the amazing opportunity to be part of The Louisiana Freshwater Sponge Project! My responsibilities in the lab include webmaster, data management, and I also do fieldwork as well. My goals are to graduate with an Associate Degree in Computer Science from BRCC and pursue a Bachelor's Degree in Computer Science with a concentration in Data Science plus a minor in Biology at Southeastern Louisiana University."
+
+<br>
+<br>
+![](ariel_d_viator.jpg){width=25%}
+<br>
+Ariel D. Viator
+<br>
+Spring 2020 -
+<br>
+"Being in the outdoors, sponge hunting, and research are some of my favorite things to do. At the end of December 2021, I will be graduating from BRCC and getting my Associate Degree in science. I will be continuing my education at FranU to get my Bachelor’s degree in Medical Laboratory Science, while continuing the Sponge adventures."
+<br>
+<br>
+
+**Undergraduate Student Researchers:**
+<br>
+<br>
+![](duda_ciarlini.jpg){width=25%}
+<br>
+Duda Ciarlini
+<br>
+Fall 2021 -
+<br>
+"More information coming soon..."
+
+<br>
+<br>
+![](tarry_glover.jpg){width=25%}
+<br>
+Tarry Glover
+<br>
+Summer 2020 -
+<br>
+"More information coming soon..."
+
+<br>
+<br>
+![](samuel_j_johnson.jpg){width=25%}
+<br>
+Samuel J. Johnson
+<br>
+Fall 2021 -
+<br>
+"I joined the Freshwater Sponge Project by chance because I wanted to expand my horizons, but I have thoroughly enjoyed my time in the project. My major may be engineering, but the project has given me many skills that I can use in my own major."
+
+<br>
+<br>
+![](britney_lee.jpg){width=25%}
+<br>
+Britney Lee
+<br>
+Fall 2021 -
+<br>
+"My duties in the lab are preparing samples for identification or DNA isolation as well as learning light microscopy. I am enjoying this opportunity very much and I plan on using these transferable skills as I began physician’s assistance school in the future!"
+
+<br>
+<br>
+![](raven_skelton.jpg){width=25%}
+<br>
+Raven Skelton
+<br>
+Fall 2021 -
+<br>
+"I primarily focus on spicule prep, going out in the field and data entry with more to learn. I've worked and lived in national parks, I love to hike, and spend time outdoors. When I graduate from BRCC, I hope to take the next steps to pursue a career in restoration ecology."
+
+<br>
+<br>
+![](raven_worley.jpg){width=25%}
+<br>
+Raven Worley
+<br>
+Fall 2021 -
+<br>
+"I currently work in the molecular part of the project; I find enjoyment in the process from DNA Isolation to PCR Purification, especially working with Gel Electrophoresis. Once I graduate, I plan to further my education to achieve my ultimate career goal of working as a Zoologist."
+<br>
+<br>
+
+**Previous Research Mentors:** these students trained students on molecular techniques, sponge collection, and sponge dissection. These students are always available for outreach opportunities and are 100% dedicated to the Freshwater Sponge Survey, even after they graduate.
+<br>
+<br>
+Heyer, Matthew: Fall 2019 - Summer 2021
+<br>
+Vuong, Chau: Summer 2019 - Spring 2021
+<br>
+<br>
+
+**Previous Undergraduate Student Researchers:**
+<br>
+<br>
+Arroyo, Elsa: Summer 2020 - Summer 2021
+<br>
+Boone, Cristina: Summer 2020 - Spring 2021
+<br>
+Smith, Charmaine: Summer 2019 - Spring 2020
+<br>
+<br>
+
+**Previous Summer Research Interns:** these students dedicated their summer to studying sponges and contributing to the Louisiana database
+<br>
+<br>
+Summer 2020:
+<br>
+Harris, Jonathan
+<br>
+Moore, Quinton
+<br>
+<br>
+Summer 2019:
+<br>
+Curvin, Diamonique
+<br>
+Moore, Quinton
+<br>
+Santos, Daisy
+<br>
+Vanichchagorn-Howell, Cole
+<br>
+<br>
+
+**Curriculum Developers:** these students were involved in developing the CURE curriculum for the implementation of the Freshwater Sponge Survey in the second Biology Lab at BRCC.
+<br>
+<br>
+Hanna, Lauren: Summer 2021
+<br>
+Hogan, Michael: Summer 2019
+<br>
+Lee, Rebecca: Summer 2020
+<br>
+Roussel, Ori: Summer 2019

@@ -6,6 +6,8 @@ navbar:
       href: index.html
     - text: "The Hunt"
       href: thehunt.html
+    - text: "Meet the Lab"
+      href: meetthelab.html
     - text: "Support the Hunt"
       href: donate.html
     - text: "About Freshwater Sponges"
