@@ -58,15 +58,6 @@ Spring 2020 -
 <br>
 
 **Undergraduate Student Researchers:**
-<br>
-<br>
-![](duda_ciarlini.jpg){width=25%}
-<br>
-Duda Ciarlini
-<br>
-Fall 2021 -
-<br>
-"More information coming soon..."
 
 <br>
 <br>
@@ -76,7 +67,7 @@ Tarry Glover
 <br>
 Summer 2020 -
 <br>
-"More information coming soon..."
+"My name is Tarry Glover. I joined the Freshwater Sponge Project in 2020. I work with MEGA-X software and the NCBI database as well as water analysis. After I graduate, I plan on transferring to Fran U and completing the Medical Laboratory Science Program."
 
 <br>
 <br>
@@ -135,6 +126,8 @@ Vuong, Chau: Summer 2019 - Spring 2021
 Arroyo, Elsa: Summer 2020 - Summer 2021
 <br>
 Boone, Cristina: Summer 2020 - Spring 2021
+<br>
+Ciarlini, Duda: Fall 2021
 <br>
 Smith, Charmaine: Summer 2019 - Spring 2020
 <br>
