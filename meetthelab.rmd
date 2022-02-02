@@ -60,7 +60,7 @@ Spring 2020 -
 **Undergraduate Student Researchers:**
 <br>
 <br>
-![](lisa_dimaggio.jpg){width=25%}
+![](lisa_dimaggio.jpeg){width=25%}
 <br>
 Lisa DiMaggio
 <br>
@@ -80,7 +80,7 @@ Summer 2020 -
 
 <br>
 <br>
-![](axel_henriquez.jpg){width=25%}
+![](axel_henriquez.jpeg){width=25%}
 <br>
 Axel Henriquez
 <br>
@@ -120,7 +120,7 @@ Fall 2021 -
 
 <br>
 <br>
-![](kendall_white.jpg){width=25%}
+![](kendall_white.jpeg){width=25%}
 <br>
 Kendall White
 <br>
@@ -145,7 +145,7 @@ Fall 2021 -
 **High School Student Researchers:**
 <br>
 <br>
-![](makayla_collins.jpg){width=25%}
+![](makayla_collins.jpeg){width=25%}
 <br>
 Makayla Collins
 <br>
