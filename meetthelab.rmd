@@ -12,7 +12,7 @@ background-color: #B9F2FE
 }
 </style>
 <br>
-The Louisiana Freshwater Sponge Research Team consists of Biology, Computer Science, and Pre-Engineering BRCC students. All have individual roles in the projects that come together to create an ongoing database that allows us to understand the health of freshwater sponges in Louisiana!
+The Louisiana Freshwater Sponge Research Team consists of biology, computer science, and pre-engineering BRCC students. All have individual roles in the projects that come together to create an ongoing database that allows us to understand the health of freshwater sponges in Louisiana!
 <br>
 <br>
 <center>
@@ -33,7 +33,7 @@ Kenzie M. Cooke
 <br>
 Summer 2021 - 
 <br>
-"In the lab, my duties focus on scanning electron microscopy, and species identification by spicule morphology. I also love being in the field and I am scuba certified! I am pursuing a Bachelor's Degree in Marine Biology."
+"In the lab, my duties focus on scanning electron microscopy, and species identification by spicule morphology. I also love being in the field and I am scuba certified! I am pursuing a bachelor's degree in marine biology."
 
 <br>
 <br>
@@ -43,7 +43,7 @@ Abhi Mehrotra
 <br>
 Summer 2021 -
 <br>
-"I am the first computer science major to have received the amazing opportunity to be part of The Louisiana Freshwater Sponge Project! My responsibilities in the lab include webmaster, data management, and I also do fieldwork as well. My goals are to graduate with an Associate Degree in Computer Science from BRCC and pursue a Bachelor's Degree in Computer Science with a concentration in Data Science plus a minor in Biology at Southeastern Louisiana University."
+"I am the first computer science major to have received the amazing opportunity to be part of The Louisiana Freshwater Sponge Project! My responsibilities in the lab include webmaster, data management, and I also do fieldwork as well. My goals are to graduate with an associate's degree in computer science from BRCC and pursue a bachelor's degree in computer science with a concentration in data science plus a minor in biology at Southeastern Louisiana University"
 
 <br>
 <br>
@@ -53,7 +53,7 @@ Ariel D. Viator
 <br>
 Spring 2020 -
 <br>
-"Being in the outdoors, sponge hunting, and research are some of my favorite things to do. At the end of December 2021, I will be graduating from BRCC and getting my Associate Degree in science. I will be continuing my education at FranU to get my Bachelor’s degree in Medical Laboratory Science, while continuing the Sponge adventures."
+"Being in the outdoors, sponge hunting, and research are some of my favorite things to do. At the end of December 2021, I will be graduating from BRCC and getting my associate's degree in science. I will be continuing my education at FranU to get my bachelor’s Degree in medical laboratory science, while continuing the sponge adventures."
 <br>
 <br>
 
@@ -66,7 +66,7 @@ Amori Bieller
 <br>
 Spring 2022 -
 <br>
-" "
+"I work in the lab mainly doing spicule prep and major in general science with a focus on biology. I have worked in entomology and currently as an equine professional; which has heavily influenced my interest in animal behavior and career choice of wildlife biology."
 
 <br>
 <br>
@@ -76,7 +76,7 @@ Lisa DiMaggio
 <br>
 Spring 2022 -
 <br>
-"I am currently a nursing major. This opportunity to work in work in a laboratory setting is starting to sway my decision! Who knows where I will find myself in a couple of years. Mu role in the Louisiana Freshwater Sponge Project is spicule prep."
+"I am currently a nursing major. This opportunity to work in work in a laboratory setting is starting to sway my decision! Who knows where I will find myself in a couple of years. My role in the Louisiana Freshwater Sponge Project is spicule prep."
 
 <br>
 <br>
@@ -86,17 +86,17 @@ Tarry Glover
 <br>
 Summer 2020 -
 <br>
-"My name is Tarry Glover. I joined the Freshwater Sponge Project in 2020. I work with MEGA-X software and the NCBI database as well as water analysis. After I graduate, I plan on transferring to Fran U and completing the Medical Laboratory Science Program."
+"My name is Tarry Glover. I joined the Freshwater Sponge Project in 2020. I work with MEGA-X software and the NCBI database as well as water analysis. After I graduate, I plan on transferring to FranU and completing the medical laboratory science program."
 
 <br>
 <br>
-![](axel_henriquez.jpeg){width=25%}
+![](axel_henriquez.jpg){width=25%}
 <br>
 Axel Henriquez
 <br>
 Spring 2022 -
 <br>
-"My role on the Louisiana Freshwater Sponge Project is to analyze a variety of soil samples gathered from previous sponge hunting trips, in hopes of finding spicules. I will be graduating this semester with my Associate Degree in Biology, and will be applying to nursing school in hopes to attend in Fall 2022."
+"My role on the Louisiana Freshwater Sponge Project is to analyze a variety of soil samples gathered from previous sponge hunting trips, in hopes of finding spicules. I will be graduating this semester with my associate degree in biology, and will be applying to nursing school in hopes to attend in fall 2022."
 
 <br>
 <br>
@@ -130,13 +130,13 @@ Fall 2021 -
 
 <br>
 <br>
-![](kendall_white.jpeg){width=25%}
+![](kendall_white.jpg){width=25%}
 <br>
 Kendall White
 <br>
 Spring 2022 -
 <br>
-"I am an Environmental Science major, minoring in Forestry. In the future, I hope to work in the National Parks Service restoring and preserving natural ecosystems. A fun fact about me is that I have been crocheting for 12 years! "
+"I am an environmental science major, minoring in forestry. In the future, I hope to work in the National Parks Service restoring and preserving natural ecosystems. A fun fact about me is that I have been crocheting for 12 years! "
 <br>
 <br>
 
@@ -148,7 +148,7 @@ Raven Worley
 <br>
 Fall 2021 -
 <br>
-"I currently work in the molecular part of the project; I find enjoyment in the process from DNA Isolation to PCR Purification, especially working with Gel Electrophoresis. Once I graduate, I plan to further my education to achieve my ultimate career goal of working as a Zoologist."
+"I currently work in the molecular part of the project; I find enjoyment in the process from DNA Isolation to PCR purification, especially working with gel electrophoresis. Once I graduate, I plan to further my education to achieve my ultimate career goal of working as a zoologist."
 <br>
 <br>
 
@@ -161,7 +161,7 @@ Makayla Collins
 <br>
 Fall 2021 -
 <br>
-" "
+"My nane is Makayla Collins. I am a senior at Mentorship STEAM Academy. I was given the opportunity to join the Freshwater Sponge Project in Fall 2021. I work on labeling the substrates that the sponges are found on. After high school, I plan to major in microbiology at Southeastern Louisiana University."
 <br>
 <br>
 
