@@ -61,7 +61,7 @@ library(RColorBrewer)
 states<-st_read("map_data_files/states")
 la.b<-st_crop(states,xmin=-94.15,xmax=-89,ymin=29,ymax=33.15)
 la.c<-states[states$STATE_NAME=="Louisiana",]
-sites<-read_xlsx("map_data_files/Miller_sponge gps coordinates_summer 2021.xlsx", sheet="Aa")
+sites<-read_xlsx("map_data_files/GPS Coordinates - Sites and Species.xlsx", sheet="Aa")
 (map1<-ggplot()+
     theme_set(theme_bw()))
 ```

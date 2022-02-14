@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Presentations and Publications"
 output: html_document
 ---
 <style type="text/css">
@@ -12,9 +12,38 @@ background-color: #B9F2FE
 }
 </style>
 
+<center>
+![](abhi_mehrotra_brcc_presentation.jpg){width=75%}
+</center>
+<center>
+<font size="1"> Pictured above: Mentor Abhi Mehrotra sharing information about the Freshwater Sponge Project to other BRCC students. </font>
+</center>
+<br>
+<br>
+
+**Presentations:** 
+<br>
+<br>
+Miller, M.G., _Building a CURE for Your Monotonous Labs_, Louisiana Academy of Sciences, Peer Lecture Presentation, 2021.
+<br>
+<br>
+Boone, C., _Inducing Spicule Malformations Within Freshwater Sponges by Relocation_, Association of Southeastern Biologists, Annual Conference Presentation, 2021.
+<br>
+<br>
+Viator, A. and Elsa Arroyo, _Identifying Freshwater Sponges Along with Creating a New Database_, Association of Southeastern Biologists, Annual Conference Presentation, 2021.
+<br>
+<br>
+Vuong, C. and M. Heyer, _Defining Louisiana Freshwater Sponge diversity with COX1-R1 and COX1-D2 Barcoding: A Database Development Study for Classroom Curriculum_, Association of Southeastern Biologists, Annual Conference Presentation, 2021.
+<br>
+<br>
+Miller, M.G., _The Louisiana Freshwater Sponge Survey Project: Identifying, Characterizing, and Building a Molecular Database_, LUMCON Scientific Talks, 2020. [video](https://youtu.be/BKFM70051Ag)
+<br>
+<br>
+Miller, M.G., _Changing the Curriculum to Involve Students in Research Activities_, Louisiana Science Teachers Association, Annual Conference Presentation, 2019.
+<br>
+<br>
+
+**Publications:**
+<br>
+<br>
 Exciting publications are coming soon!! Please check back.
-
-For now, enjoy this [video](https://youtu.be/BKFM70051Ag) of the history of sponge hunt!
-
-
-
