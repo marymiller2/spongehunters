@@ -36,7 +36,12 @@ Viator, A. and Elsa Arroyo, _Identifying Freshwater Sponges Along with Creating 
 Vuong, C. and M. Heyer, _Defining Louisiana Freshwater Sponge diversity with COX1-R1 and COX1-D2 Barcoding: A Database Development Study for Classroom Curriculum_, Association of Southeastern Biologists, Annual Conference Presentation, 2021.
 <br>
 <br>
-Miller, M.G., _The Louisiana Freshwater Sponge Survey Project: Identifying, Characterizing, and Building a Molecular Database_, LUMCON Scientific Talks, 2020. [video](https://youtu.be/BKFM70051Ag)
+Miller, M.G., _The Louisiana Freshwater Sponge Survey Project: Identifying, Characterizing, and Building a Molecular Database_, LUMCON Scientific Talks, 2020.
+<br>
+<br>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BKFM70051Ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 <br>
 <br>
 Miller, M.G., _Changing the Curriculum to Involve Students in Research Activities_, Louisiana Science Teachers Association, Annual Conference Presentation, 2019.
