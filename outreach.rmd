@@ -13,16 +13,22 @@ background-color: #B9F2FE
 </style>
 <br>
 
-We are currently planning outreach activities that will occur on the Baton Rouge 
-Community College campus in fall 2021.
-
-Additionally, we will be recruiting science classes from high schools within the Baton Rouge and New Orleans area that would like to participate in ongoing site collections to continuously monitor locations of great sponge diversity in the Louisiana area.
-
-If you have events that you would like us to attend to educate visitors about freshwater
-sponges, or would like to participate in upcoming outreach activities, please contact Dr. Miller at millerm2@mybrcc.edu.
-
+**Previous Outreach Events**
+<br>
+<br>
+_BREC BIOBLITZ 2022_
+<br>
+<br>
+What is a Bioblitz?
+<br>
+A Bioblitz is an intense period of biological surveying in an attempt to record all of the living species within a designated area. Groups of scientists, naturalists and volunteers conduct an intensive field study over a continuous time period, usually 24 hours. BREC Conservation uses the Bioblitz data to focus future field surveys and gather information for our natural resource management plans. It allows BREC to have a better understanding of what is in their parks so they can appropriately manage and protect the land.
+<br>
 <br>
 <center>
-![](Outreach.jpg){width=50%}
+![](brec_bioblitz_2022.jpg){width=75%}
 </center>
+<center>
+<font size="1"> Pictured above: The Louisiana Freshwater Sponge Research Team sharing information about the Freshwater Sponge Project to the public at BREC BioBlitz 2022. </font>
+</center>
+<br>
 <br>

@@ -43,17 +43,7 @@ Abhi Mehrotra
 <br>
 Summer 2021 -
 <br>
-"I am the first computer science major to have received the amazing opportunity to be part of The Louisiana Freshwater Sponge Project! My responsibilities in the lab include webmaster, data management, and I also do fieldwork as well. My goals are to graduate with an associate's degree in computer science from BRCC and pursue a bachelor's degree in computer science with a concentration in data science plus a minor in biology at Southeastern Louisiana University."
-
-<br>
-<br>
-![](ariel_d_viator.jpg){width=25%}
-<br>
-Ariel D. Viator
-<br>
-Spring 2020 -
-<br>
-"Being in the outdoors, sponge hunting, and research are some of my favorite things to do. At the end of December 2021, I will be graduating from BRCC and getting my associate's degree in science. I will be continuing my education at FranU to get my bachelor’s Degree in medical laboratory science, while continuing the sponge adventures."
+"I am the first computer science major to have received the amazing opportunity to be part of The Louisiana Freshwater Sponge Project! My responsibilities in the lab include webmaster, data management, and I also do fieldwork as well. My goals are to graduate with an associate's degree in computer science from BRCC and pursue a bachelor's degree in computer science with a concentration in data science plus a minor in biological sciences."
 <br>
 <br>
 
@@ -141,18 +131,6 @@ Spring 2022 -
 <br>
 <br>
 
-<br>
-<br>
-![](raven_worley.jpg){width=25%}
-<br>
-Raven Worley
-<br>
-Fall 2021 -
-<br>
-"I currently work in the molecular part of the project; I find enjoyment in the process from DNA Isolation to PCR purification, especially working with gel electrophoresis. Once I graduate, I plan to further my education to achieve my ultimate career goal of working as a zoologist."
-<br>
-<br>
-
 **High School Student Researchers:**
 <br>
 <br>
@@ -172,6 +150,8 @@ Fall 2021 -
 <br>
 Heyer, Matthew: Fall 2019 - Summer 2021
 <br>
+Viator, Ariel D.: Spring 2020 - Spring 2022
+<br>
 Vuong, Chau: Summer 2019 - Spring 2021
 <br>
 <br>
@@ -186,6 +166,8 @@ Boone, Cristina: Summer 2020 - Spring 2021
 Ciarlini, Duda: Fall 2021
 <br>
 Smith, Charmaine: Summer 2019 - Spring 2020
+<br>
+Worley, Raven: Fall 2021 - Spring 2022
 <br>
 <br>
 
