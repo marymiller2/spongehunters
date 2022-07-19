@@ -1,2 +1,0 @@
-# spongehunters
-website
